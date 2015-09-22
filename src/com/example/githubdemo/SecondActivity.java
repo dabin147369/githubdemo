@@ -24,6 +24,9 @@ public class SecondActivity extends Activity {
 	private void initView() {
 		Toast.makeText(mActivity, "hello dabin", 0).show();
 		
+		System.out.println("1111111111111111111");
+		
+		System.out.println("22222222222222222222");
 	}
 
 
