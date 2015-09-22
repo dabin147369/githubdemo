@@ -32,6 +32,9 @@ public class SecondActivity extends Activity {
 		System.out.println("22222222222222222222");
 		System.out.println("33333333333");
 		System.out.println("44444444444");
+		
+		System.out.println("cccccccccc");
+		System.out.println("ddddddddddddd");
 	}
 
 

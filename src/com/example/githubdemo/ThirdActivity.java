@@ -16,5 +16,8 @@ public class ThirdActivity extends Activity {
 		System.out.println("1111111111111");
 		System.out.println("22222222222222");
 		
+		System.out.println("ffffffffffffff");
+		System.out.println("ggggggggggggg");
+		
 	}
 }
